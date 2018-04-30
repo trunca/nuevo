@@ -348,25 +348,6 @@ const char *getBoxType()
 	return BOXTYPE;
 }
 
-const char *getMachineRootFile()
-{
-	return ROOTFS_FILE;
-}
-
-const char *getMachineKernelFile()
-{
-	return KERNEL_FILE;
-}
-
-const char *getMachineName()
-{
-	return MACHINE;
-}	
-
-const char *getMachineBrand()
-{
-	return MACHINE_BRAND;
-}
 
 #include <malloc.h>
 
