@@ -2057,7 +2057,7 @@ class InfoBarExtensions():
         self.addExtension((lambda : _('Import channels from fallback tuner'), self.importChannels, lambda : config.usage.remote_fallback_extension_menu.value and config.usage.remote_fallback_import.value))
         self['InstantExtensionsActions'] = HelpableActionMap(self, 'InfobarExtensions', {'extensions': (self.showExtensionSelection, _('Show extensions...')),
          'showPluginBrowser': (self.showPluginBrowser, _('Show the plugin browser..')),
-         'videomanualesSF': (self.videomanualesSF, _('Show the plugin nightupdate..'))}, 1)
+         'videomanualesSF': (self.videomanualesSF, _('videomanualesSF..'))}, 1)
 
     def openSoftcamSetup(self):
         from Screens.SoftcamSetup import SoftcamSetup
