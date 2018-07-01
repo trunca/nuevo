@@ -466,18 +466,18 @@ msgid "(show optional DVD audio menu)"
 msgstr "(muestra ménu de audio de DVD)"
 
 msgid "(unknown)"
-msgstr ""
+msgstr "(desconocido)"
 
 #
 msgid "* Only available if more than one interface is active."
 msgstr "* Solo disponible si más de un interface está activo"
 
 msgid "-NO SERVICE\n"
-msgstr ""
+msgstr "-NO SERVICIO\n"
 
 #, python-format
 msgid "-SERVICE ERROR:%d\n"
-msgstr ""
+msgstr "-SERVICIO ERROR:% d \ n"
 
 msgid "/s"
 msgstr "/s"
@@ -789,7 +789,7 @@ msgid "AC3 downmix"
 msgstr "AC3 downmix"
 
 msgid "ACQUIRING TSID/ONID"
-msgstr ""
+msgstr "ADQUISICIÓN DE TSID / ONID"
 
 msgid "AGC:"
 msgstr "AGC:"
@@ -901,7 +901,7 @@ msgid "Add recording (stop after current event)"
 msgstr "añadir grabación (sólo evento actual)"
 
 msgid "Add seperate receiver URL for import"
-msgstr ""
+msgstr "Agregar URL del receptor por separado para importar"
 
 #
 msgid "Add service"
@@ -1244,7 +1244,7 @@ msgid "Audio"
 msgstr "Sonido"
 
 msgid "Audio / Video"
-msgstr ""
+msgstr "Audio / Video"
 
 msgid "Audio PID"
 msgstr "Audio PID"
@@ -2763,7 +2763,7 @@ msgid "Delete file"
 msgstr "borrar fichero"
 
 msgid "Delete image"
-msgstr ""
+msgstr "Borrado imagen"
 
 #
 msgid "Delete playlist entry"
