@@ -399,7 +399,8 @@ msgstr "%k:%M %e/%m"
 msgid ""
 "%s\n"
 "Press exit to close"
-msgstr ""
+"%s\n"
+msgstr "Presione exit para cerrar"
 
 #, python-format
 msgid "%s %d.%d"
@@ -658,7 +659,7 @@ msgid "<unknown>"
 msgstr "<desconocido>"
 
 msgid "=NO STREAM\n"
-msgstr ""
+msgstr "=NO STREAM\n""
 
 #
 msgid "??"
@@ -926,10 +927,10 @@ msgid "Add/remove change timer for current event"
 msgstr "Añadir/eliminar temporizador para el programa actual"
 
 msgid "Additional motor options allow you to enter details from your motor's spec sheet so enigma can work out how long it will take to move the dish from one satellite to another satellite."
-msgstr ""
+msgstr "Las opciones de motor adicionales le permiten ingresar detalles de la hoja de especificaciones de su motor para que el enigma pueda calcular cuánto tiempo llevará desplazar el plato de un satélite a otro satélite."
 
 msgid "Additional motor options allow you to enter details from your motor's spec sheet so enigma can work out how long it will take to move to another satellite."
-msgstr ""
+msgstr "Las opciones de motor adicionales le permiten ingresar detalles de la hoja de especificaciones de su motor para que el enigma pueda determinar cuánto tiempo le tomará moverse a otro satélite."
 
 msgid "Adjust 3D settings"
 msgstr "Ajustar configuración 3D"
@@ -966,7 +967,7 @@ msgid "Advanced video setup"
 msgstr "Configuración de video avanzada"
 
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afghanistan"
 
 #
 msgid "After event"
@@ -976,14 +977,14 @@ msgid "Aland Islands"
 msgstr ""
 
 msgid "Albania"
-msgstr ""
+msgstr "Albania"
 
 #
 msgid "Album"
 msgstr "Album"
 
 msgid "Algeria"
-msgstr ""
+msgstr "Algeria"
 
 msgid "Alignment of events"
 msgstr "Alienacion de eventos"
@@ -1020,7 +1021,7 @@ msgid "Allocate"
 msgstr "Asignar"
 
 msgid "Allocate a number to the physical LNB you are configuring. You will be able to select this LNB again for other satellites (e.g. motorised dishes) to save setting up the same LNB multiple times."
-msgstr ""
+msgstr "Asigne un número al LNB físico que está configurando. Podrá volver a seleccionar este LNB para otros satélites (por ejemplo, platos motorizados) para guardar la configuración del mismo LNB varias veces."
 
 msgid "Allocate unused memory index"
 msgstr "Asignar índice de memoria no usado"
@@ -1043,7 +1044,7 @@ msgid "Alpha"
 msgstr "Alpha"
 
 msgid "Also import at reboot/restart enigma2"
-msgstr ""
+msgstr "También importar al reiniciar / reiniciar enigma2"
 
 #, fuzzy
 msgid "Also import from the extension menu"
@@ -1397,7 +1398,7 @@ msgstr "Velocidad de borrado de fondo"
 
 #, python-format
 msgid "Backing up to: %s"
-msgstr ""
+msgstr "Copia de seguridad hasta:% s"
 
 #
 msgid "Backup completed."
@@ -1412,7 +1413,7 @@ msgid "Backup is running..."
 msgstr "Backup está ejecutándose..."
 
 msgid "Backup settings"
-msgstr ""
+msgstr "Configuración de copia de seguridad"
 
 #
 msgid "Backup system settings"
@@ -1513,7 +1514,7 @@ msgid "Bookmarks"
 msgstr "Marcadores"
 
 msgid "Boost blue"
-msgstr ""
+msgstr "Boost azul"
 
 #
 #, fuzzy
@@ -1547,7 +1548,7 @@ msgid "Buffering %d%%"
 msgstr "Almacenando %d%%"
 
 msgid "Build date: "
-msgstr ""
+msgstr "La fecha de construcción"
 
 msgid "Bulgaria"
 msgstr ""
@@ -1671,7 +1672,7 @@ msgid "Cannot find any signal ..., aborting !"
 msgstr "No se puede encontrar ninguna señal..., ¡abortando!"
 
 msgid "Cannot find images - please try later"
-msgstr ""
+msgstr "No se pueden encontrar imágenes, intente más tarde"
 
 msgid "Cannot move files on a different disk or system to the trash can"
 msgstr "No se puede mover los archivos de una unidad o sistema distintos a la papelera"
@@ -1786,10 +1787,10 @@ msgstr "Información de canal"
 
 #, python-format
 msgid "Channels from fallback tuner failed %s"
-msgstr ""
+msgstr "Los canales del sintonizador de respaldo fallaron% s"
 
 msgid "Channels from fallback tuner imported"
-msgstr ""
+msgstr "Canales del sintonizador de respaldo importados"
 
 #, fuzzy
 msgid "Channels only"
@@ -2377,10 +2378,10 @@ msgid "Constellation & FFT mode"
 msgstr "Modo de trasmisión"
 
 msgid "Consult your Unicable device spec sheet for this information."
-msgstr ""
+msgstr "Consulte su hoja de especificaciones del dispositivo Unicable para obtener esta información."
 
 msgid "Consult your motor's spec sheet for this information, or leave the default setting."
-msgstr ""
+msgstr "Consulte la hoja de especificaciones de su motor para obtener esta información, o deje la configuración predeterminada."
 
 #
 msgid "Content does not fit on DVD!"
@@ -2425,7 +2426,7 @@ msgid "Could not find installed channel list."
 msgstr "No se pudo encontrar la lista de canales instalados."
 
 msgid "Could not find suitable media - Please insert a media (e.g. USB stick) and try again!"
-msgstr ""
+msgstr "No se pudieron encontrar los medios adecuados: inserte un medio (por ejemplo, un dispositivo USB) y vuelva a intentarlo."
 
 #
 msgid "Could not load medium! No disc inserted?"
@@ -2592,7 +2593,7 @@ msgid "DVB CI Delay"
 msgstr "Asignación CI"
 
 msgid "DVB driver version: "
-msgstr ""
+msgstr "Versión del controlador DVB:"
 
 msgid "DVB subtitle black transparency"
 msgstr "Subtítulo DVB transparencia negra"
@@ -10488,7 +10489,7 @@ msgid "Western Sahara"
 msgstr ""
 
 msgid "What type of service scan do you want?"
-msgstr ""
+msgstr "¿Qué tipo de escaneo de servicio quieres?"
 
 msgid "When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded"
 msgstr "Cuando está habilitado, enigma2 cargará los usuarios desvinculados. Esto significa que los userbouquets que están disponibles, pero que no están incluidos en los archivos bouquets.tv o bouquets.radio, seguirán cargándose. Esto le permite, por ejemplo, mantener su propio ramo de usuario mientras se instalan los ajustes instalados"
@@ -12189,11 +12190,11 @@ msgstr ""
 
 #, python-format
 msgid "slot%s - empty, with backup"
-msgstr ""
+msgstr "slot% s - vacío, con copia de seguridad"
 
 #, python-format
 msgid "slot%s - empty, without backup"
-msgstr ""
+msgstr "slot% s - vacío, sin respaldo"
 
 msgid "soap/melodram/folkloric"
 msgstr "Jabón / melodram / folclórico"
@@ -12232,7 +12233,7 @@ msgid "start directory"
 msgstr "directorio de inicio"
 
 msgid "starts in a few seconds"
-msgstr ""
+msgstr "comienza en unos segundos"
 
 msgid "stepsize"
 msgstr "Numero de pie"
@@ -12308,7 +12309,7 @@ msgid "true"
 msgstr "cierto"
 
 msgid "type"
-msgstr ""
+msgstr "tipo"
 
 #
 msgid "unavailable"
