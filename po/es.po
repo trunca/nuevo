@@ -4818,12 +4818,12 @@ msgstr "Israel"
 msgid ""
 "It seems you did not see all the eight arrow heads. This means your TV has overscan enabled, and is not configured properly.\n"
 "\n"
-"Please refer to your TV's manual to find how you can disable overscan on your TV. Look for terms like 'Just fit', 'Full width', etc. If you can't find it, ask other users at http://forums.openpli.org.\n"
+"Please refer to your TV's manual to find how you can disable overscan on your TV. Look for terms like 'Just fit', 'Full width', etc. If you can't find it, ask other users at http://soldiersatforum.es.\n"
 "\n"
 msgstr ""
 "Parece que no viste las ocho cabezas de flechas. Esto significa que su TV tiene el overscan habilitado, y no está configurado correctamente.\n"
 "\n"
-"Consulte el manual de su televisor para ver cómo puede desactivar el overscan en su televisor. Busque términos como ‘Apropiado’, ‘Ancho total’, etc. Si no puede encontrarlo, pregunte a otros usuarios en http://forums.openpli.org.\n"
+"Consulte el manual de su televisor para ver cómo puede desactivar el overscan en su televisor. Busque términos como ‘Apropiado’, ‘Ancho total’, etc. Si no puede encontrarlo, pregunte a otros usuarios en http://soldiersatforum.es.\n"
 
 #
 msgid "Italian"
@@ -10642,8 +10642,8 @@ msgstr ""
 "\n"
 "Luego busque hasta el final, presione OK, seleccione ‘end cut’. Eso es."
 
-msgid "Welcome to the image upgrade wizard. The wizard will assist you in upgrading the firmware of your receiver by providing a backup facility for your current settings and a short explanation of how to upgrade your firmware."
-msgstr "Bienvenido al Asistente para actualización de la imagen. El asistente le ayudará a actualizar el firmware de su receptor proporcionando una facilidad de copia de seguridad de la configuración actual y una breve explicación de cómo actualizar el firmware."
+msgid "Welcome to the image upgrade wizard Sfteam. The wizard will assist you in upgrading the firmware of your receiver by providing a backup facility for your current settings and a short explanation of how to upgrade your firmware."
+msgstr "Bienvenido al Asistente para actualización de la imagen Sfteam. El asistente le ayudará a actualizar el firmware de su receptor proporcionando una facilidad de copia de seguridad de la configuración actual y una breve explicación de cómo actualizar el firmware."
 
 msgid ""
 "Welcome.\n"
@@ -11144,9 +11144,9 @@ msgid "You must switch to the service %s (%s - '%s')!\n"
 msgstr "Debe cambiar al servicio% s (% s - ‘% s’)!\n"
 
 msgid ""
-"You need a PC connected to your receiver. If you need further instructions, please visit the website https://openpli.org\n"
+"You need a PC connected to your receiver. If you need further instructions, please visit the website https://soldiersatforum.es\n"
 "Your receiver will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings."
-msgstr "Necesita un PC conectado al receptor. Si necesita más instrucciones, por favor visite el sitio web https://openpli.org que su receptor se detendrá ahora. Después de haber realizado las instrucciones de actualización desde el sitio web, su nuevo firmware le preguntará para restaurar la configuración."
+msgstr "Necesita un PC conectado al receptor. Si necesita más instrucciones, por favor visite el sitio web https://soldiersatforum.es que su receptor se detendrá ahora. Después de haber realizado las instrucciones de actualización desde el sitio web, su nuevo firmware le preguntará para restaurar la configuración."
 
 #
 msgid "Your backup succeeded. We will now continue to explain the further upgrade process."
