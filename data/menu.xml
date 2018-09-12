@@ -33,18 +33,7 @@
 <menu level="0" weight="4" text="Menu Utilidades" entryID="utilidades">
             <id val="utilidades"/>
                 <item weight="3" level="0" text="Manager Swap" entryID="swap_setup"><screen module="Swapmanager" screen="Swap"/></item>
-                <item level="0" text="Free memory" entryID="memoria_setup">
-		<code>
-from Plugins.sftpanel.tools import DropScreen
-self.session.open(DropScreen)
-		</code>
-		</item>
-		<item level="0" text="Edit DNS" entryID="dns_setup">
-		<code>
-from Plugins.sftpanel.tools import DDNSScreen
-self.session.open(DDNSScreen)
-		</code>
-		</item>
+              
 				
               		<item level="0" text="Install packages" entryID="paquetes_setup">
 		<code>
